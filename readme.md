@@ -1,8 +1,5 @@
 # Leveraging Machine Learning for Early Detection of Neurological Disorders
 
-![GitHub stars](https://img.shields.io/github/stars/mudassar003/neuroAI?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mudassar003/neuroAI?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/mudassar003/neuroAI?style=social)
 
 ## 📌 Project Overview
 
