@@ -1,0 +1,134 @@
+Efficient
+│   ├───b128
+│   │       classification_report.txt
+│   │       Efficient_128_confusion_matrix.png
+│   │       Efficient_128_roc_curve.png
+│   │       eficiennetb0 (1).ipynb
+│   │       metrics_report.txt
+│   │       training_history.png
+│   │
+│   ├───b256
+│   │       Efficient_256_confusion_matrix.png
+│   │       Efficient_256_roc_curve.png
+│   │       efficient_classification_report.txt
+│   │       eficiennetb0 (2).ipynb
+│   │       metrics_report.txt
+│   │       training_history.png
+│   │
+│   ├───b32
+│   │       Efficient_32_confusion_matrix.png
+│   │       Efficient_32_roc_curve.png
+│   │
+│   └───b64
+│           classification_report.txt
+│           Efficient_64_confusion_matrix.png
+│           Efficient_64_roc_curve.png
+│           eficiennetb0 (1).ipynb
+│           metrics_report.txt
+│           training_history.png
+│
+├───Ensemble
+│   ├───Notebook2 - 96 b256
+│   │       hybrid_256_confusion_matrix.png
+│   │       hybrid_256__roc_curve.png
+│   │       metrics_report.txt
+│   │       resnet50-ensemble-v2.ipynb
+│   │       training_history.png
+│   │       wnsemble_classification_report.txt
+│   │
+│   ├───Notebook3 -128
+│   │       classification_report.txt
+│   │       hybrid_128_confusion_matrix.png
+│   │       hybrid_128__roc_curve.png
+│   │       metrics_report.txt
+│   │       resnet50-ens-v3-b128.ipynb
+│   │       training_history.png
+│   │
+│   ├───Notebook4 64
+│   │       classification_report.txt
+│   │       hybrid_64_confusion_matrix.png
+│   │       hybrid_64__roc_curve.png
+│   │       metrics_report.txt
+│   │       resnet50-ens-v3-b64.ipynb
+│   │       training_history.png
+│   │
+│   └───Notebook5 32
+│           classification_report.txt
+│           hybrid_32_confusion_matrix.png
+│           hybrid_32__roc_curve.png
+│           metrics_report.txt
+│           resnet50-ens-v3-b32.ipynb
+│           training_history.png
+│
+├───MobileNet
+│       confusion_matrix.png
+│       Mobilenet_v1.ipynb
+│       roc_curve.png
+│       training_history (1).png
+│
+└───Resnet50
+    ├───Batch Optimization
+    │   ├───Batch 128
+    │   │       classification_report.txt
+    │   │       metrics_report.txt
+    │   │       resnet-50-b128.ipynb
+    │   │       R_128_confusion_matrix.png
+    │   │       R_128_roc_curve.png
+    │   │       training_history (1).png
+    │   │
+    │   ├───Batch 256
+    │   │       classification_report.txt
+    │   │       confusion_matrix.png
+    │   │       metrics_report.txt
+    │   │       resnet-50-b256.ipynb
+    │   │       roc_curve.png
+    │   │       training_history (1).png
+    │   │
+    │   ├───Batch 256- Update
+    │   │       classification_report.txt
+    │   │       metrics_report.txt
+    │   │       notebookbece9281f4.ipynb
+    │   │       R_256_confusion_matrix.png
+    │   │       R_256_roc_curve.png
+    │   │       test_image_labels.csv
+    │   │       training_history (1).png
+    │   │       train_image_labels.csv
+    │   │
+    │   ├───Batch 32
+    │   │       classification_report.txt
+    │   │       metrics_report.txt
+    │   │       resnet-50-b32.ipynb
+    │   │       R_32_confusion_matrix.png
+    │   │       R_32_roc_curve.png
+    │   │       training_history (1).png
+    │   │
+    │   └───Batch 64
+    │           classification_report.txt
+    │           metrics_report.txt
+    │           resnet-50-b64.ipynb
+    │           R_64_confusion_matrix.png
+    │           R_64_roc_curve.png
+    │           training_history (1).png
+    │
+    ├───Learninig Rate Optimization
+    │   ├───LR 0.0001
+    │   │       classification_report.txt
+    │   │       confusion_matrix.png
+    │   │       metrics_report.txt
+    │   │       resnet-50-b256-r-0-00001.ipynb
+    │   │       roc_curve.png
+    │   │       training_history (1).png
+    │   │
+    │   └───LR 0.001
+    │           classification_report.txt
+    │           confusion_matrix.png
+    │           metrics_report.txt
+    │           resnet-50-b256.ipynb
+    │           roc_curve.png
+    │           training_history (1).png
+    │
+    └───Resnet50_Final_Version
+            confusion_matrix.png
+            Resnwt50_Final_Version6.ipynb
+            roc_curve.png
+            training_history (1).png
