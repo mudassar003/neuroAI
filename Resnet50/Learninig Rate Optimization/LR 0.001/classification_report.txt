@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+          hc       0.96      0.97      0.97      3707
+          pd       0.96      0.95      0.95      3810
+   prodromal       0.96      0.96      0.96      3989
+
+    accuracy                           0.96     11506
+   macro avg       0.96      0.96      0.96     11506
+weighted avg       0.96      0.96      0.96     11506

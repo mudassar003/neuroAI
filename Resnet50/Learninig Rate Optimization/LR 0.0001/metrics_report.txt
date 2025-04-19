@@ -1,0 +1,4 @@
+Test Accuracy: 0.8410
+Test F1 Score (Weighted): 0.8410
+Test Precision (Weighted): 0.8415
+Test Recall (Weighted): 0.8410
